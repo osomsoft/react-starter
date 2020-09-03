@@ -1,7 +1,7 @@
 {
   "name": "react-starter",
   "version": "0.1.0",
-  "description": "An Amazing Application Using React and Node together",
+  "description": "React SPA starter for quick web development",
   "main": "src/index.js",
   "scripts": {
     "lint": "eslint",
